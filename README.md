@@ -52,9 +52,9 @@ Focused on responsiveness, tuning flexibility, and cross-platform performance.
 
 #### Featured Work
 
+* [Modular C++ Physics Engine, e-physics](./projects/e-bliss/e-physics.md)
 * [Satellite Mission Simulation Engine](./projects/e-bliss/orbital-sim.md)
 * [Constellation & Communication Modeling](./projects/e-bliss/constellation.md)
-* [Line-of-Sight & Coverage Analysis](./projects/e-bliss/los-analysis.md)
 * [Godot Visualization Tools](./projects/e-bliss/visualization.md)
 
 #### Summary
@@ -87,10 +87,18 @@ Built large-scale simulation workflows for risk analysis and collaborated with F
 
 #### Featured Work
 
-* [Digital Twin / Vehicle Simulation Concepts](./projects/personal/digital-twin.md)
-* [Unity Vehicle Systems](./projects/personal/unity-vehicles.md)
-* [AR + Image Scanning Systems](./projects/personal/ar-scanning.md)
+* [Unity Military Vehicle Systems](./projects/personal/vehicle-combat.md)
 * [Procedural World Generation](./projects/personal/procedural-world.md)
+* [Cloud Services Connection](./projects/personal/cloud-services.md)
+* [AR + Image Scanning Systems](./projects/personal/ar-scanning.md)
+
+
+---
+
+### Other Professional Work
+
+* [Crush Them All](./projects/other/crush-them-all.md)
+* [4D VIEWR](./projects/other/4d-viewr.md)
 
 ---
 
