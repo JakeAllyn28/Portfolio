@@ -8,7 +8,7 @@ Physics + software engineer specializing in real-time simulation, vehicle dynami
 * Real-time physics, orbital mechanics, Monte Carlo systems
 * AAA gameplay systems + government simulation work
 
-[Resume](#) | [LinkedIn](https://www.linkedin.com/in/jake-allyn/)
+[Resume](./JakeAllynResume.pdf) | [LinkedIn](https://www.linkedin.com/in/jake-allyn/)
 
 ---
 
