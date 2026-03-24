@@ -1,3 +1,5 @@
+(work in progress - some links may not work yet)
+
 # Jake Allyn – Simulation & Physics Engineer
 
 Physics + software engineer specializing in real-time simulation, vehicle dynamics, and aerospace modeling.
@@ -65,19 +67,20 @@ Architected a modular C++ simulation engine for satellite mission modeling, incl
 
 ### ACTA-SH
 
-**Focus:** Physics research, blast modeling, experimental validation
+**Focus:** Physics research, fast-running models, experimental validation
 
 #### Featured Work
 
-* [Blast & Debris Simulation Models](./projects/acta/blast-modeling.md)
-* [Monte Carlo Risk Analysis Pipeline](./projects/acta/monte-carlo.md)
-* [Impulse Sled System](./projects/acta/impulse-sled.md)
-* [FAA Aircraft Failure Simulation](./projects/acta/faa-sim.md)
+* [Fast-Running Simulation Models](./projects/acta/fast-running-models.md)
+* [Experimental Setups](./projects/acta/experiments.md)
+* [Aircraft Failure Simulation](./projects/acta/faa-sim.md)
+* [Machine Learning for Building Classification](./projects/acta/ml-buildings.md)
 
 #### Summary
 
 Developed physics-based models validated against real-world experiments.
-Built large-scale simulation workflows for risk analysis and collaborated with FAA/USAF on aircraft failure modeling.
+Built large-scale simulation workflows for risk analysis.
+
 
 ---
 
@@ -89,6 +92,7 @@ Built large-scale simulation workflows for risk analysis and collaborated with F
 
 * [Unity Military Vehicle Systems](./projects/personal/vehicle-combat.md)
 * [Procedural World Generation](./projects/personal/procedural-world.md)
+* [Procedural First-Person Animations](./projects/personal/procedural-anims.md)
 * [Cloud Services Connection](./projects/personal/cloud-services.md)
 * [AR + Image Scanning Systems](./projects/personal/ar-scanning.md)
 
@@ -97,8 +101,11 @@ Built large-scale simulation workflows for risk analysis and collaborated with F
 
 ### Other Professional Work
 
-* [Crush Them All](./projects/other/crush-them-all.md)
-* [4D VIEWR](./projects/other/4d-viewr.md)
+**Focus:** Early career projects
+
+* [Galactic Simulations](./projects/galaxies.md)
+* [Crush Them All](./projects/crush-them-all.md)
+* [4D VIEWR](./projects/4d-viewr.md)
 
 ---
 
@@ -119,7 +126,8 @@ I focus on building systems that:
 C++, Python, C#, MATLAB
 
 **Tools / Engines:**
-Unity, Godot, JSBSim, QGIS
+Unity, Godot, Unreal
+JSBSim, QGIS, LISA FEM
 
 **Domains:**
 
@@ -128,17 +136,7 @@ Unity, Godot, JSBSim, QGIS
 * Vehicle Dynamics
 * Monte Carlo / Statistical Modeling
 * Real-Time Systems
-
----
-
-## Planned Additions
-
-This portfolio is actively being expanded. Upcoming sections:
-
-* Detailed system breakdowns (with diagrams)
-* Performance profiling case studies
-* Simulation architecture deep dives
-* Interactive demos / videos
+* AAA Game Development
 
 ---
 
