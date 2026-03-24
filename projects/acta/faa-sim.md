@@ -61,4 +61,4 @@ Built a Monte Carlo simulation pipeline:
 
 ## Visuals
 
-![Sim Visual](./aircraft_to_ground.png)
+![Sim Visual](./aircraft_to_ground_visual.png)
