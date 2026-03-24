@@ -1,4 +1,4 @@
-(work in progress - some links may not work yet)
+(work in progress - some links may not work and information may be incomplete)
 
 # Jake Allyn – Simulation & Physics Engineer
 
