@@ -42,10 +42,11 @@ Each blast test included:
 
 Designed and deployed a multi-modal instrumentation setup:
 
+* Impulse Sleds with witness plates and other instrumentation
 * High-speed cameras for debris tracking
 * Accelerometers for structural and object response
 * Pressure gauges for blast characterization
-* LiDAR scans for post-test spatial reconstruction
+* LiDAR gages on impulse sleds for accelerometer data verification
 * GoPro cameras for additional coverage
 * Custom GPS + accelerometer system for door response tracking
 
@@ -62,9 +63,25 @@ Developed tools and workflows to process experimental data into formats usable f
 
 ---
 
+## Custom Impulse Sled Systems
+
+Designed and developed custom impulse sled systems to measure debris-induced impulse during full-scale blast tests.
+
+- Iterated on design over a 9-month in-house development cycle  
+- Final system used a rail-guided trolley to ensure controlled, repeatable motion under blast loading  
+- Integrated a layered witness plate assembly:
+  - Thin aluminum sheet (impact recording)
+  - Energy-absorbing foam layer (impulse transfer)
+  - Rigid wood backing (structural support)  
+- Engineered to operate reliably in extreme blast environments with minimal signal loss  
+
+These systems enabled accurate measurement of debris impact impulse, providing critical data for validating fast-running simulation models and correlating controlled experiments with full-scale blast results.
+
+--
+
 ## AR-Based Debris Scanning
 
-Developed a mobile AR application to:
+Developed an Android AR application using Unity to:
 
 * Scan debris fields in real time
 * Generate spatially accurate point clouds
