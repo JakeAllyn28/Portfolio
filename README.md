@@ -1,14 +1,14 @@
 (work in progress - some links may not work and information may be incomplete)
 
-# Jake Allyn – Simulation & Physics Engineer
+# Jake Allyn – Physics & Simulation Engineer
 
-Physics + software engineer specializing in real-time simulation, vehicle dynamics, and aerospace modeling.
+Physics and simulation engineer specializing in real-time physics, vehicle dynamics, and aerospace modeling across AAA games and government research.
 
-* C++, Python, C#, MATLAB
-* Unity, Godot, Unreal
-* JSBSim, QGIS, LISA FEM
-* Real-time physics, orbital mechanics, Monte Carlo systems
-* AAA gameplay systems + government simulation work
+- Built vehicle physics systems for NBA 2K (multi-platform, real-time)
+- Developed satellite simulation engine (orbital mechanics, comms, visualization)
+- Designed experiment-validated physics models (FAA / USAF collaboration)
+
+C++, Python, C#, MATLAB | Unity, Godot, Unreal
 
 [Resume](./JakeAllynResume.pdf) | [LinkedIn](https://www.linkedin.com/in/jake-allyn/)
 
@@ -23,6 +23,15 @@ My work spans:
 * Aerospace and orbital simulation
 * Experiment-driven modeling and validation
 * Large-scale statistical simulation pipelines
+
+---
+
+## Selected Highlights
+
+* Led development of vehicle physics systems shipped in multiple AAA titles (NBA 2K24-2K27)
+* Built a C++ orbital simulation enngine for satellite mission analysis and visualization
+* Designed experimental systems (impulse sleds, drop towers) to validate physics models
+* Developed Monte Carlo pipelines for large-scale risk and dispersion analysis
 
 ---
 
@@ -43,8 +52,8 @@ My work spans:
 
 #### Summary
 
-Designed and implemented a modular, arcade-style vehicle physics system supporting multiple vehicle types (tanks, cars, aircraft, hovercraft).
-Focused on responsiveness, tuning flexibility, and cross-platform performance.
+Designed and owned a vehicle physics system used across NBA 2K titles. Supported cars, bikes, skateboards, air vehicles, and more with gameplay-driven handling models.
+Focused on responsiveness, tunability, and stable multiplayer performance.
 
 ---
 
