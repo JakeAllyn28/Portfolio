@@ -81,5 +81,5 @@ An educational AR platform where physical objects act as interactive “textbook
 
 ## Visuals
 
-![Pocket Realm](./pocket-realm.mp4)
+![Pocket Realm](./pocket-realm.gif)
 ![AR Pool Table](./ar-pool-table.jpg)
