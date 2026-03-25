@@ -60,9 +60,3 @@ Focused on improving internal tools, optimizing gameplay calculations, and imple
 - Reduced computational cost of gameplay calculations  
 - Enabled alternative monetization paths with lower overhead  
 - Contributed to both backend infrastructure and core gameplay systems  
-
----
-
-## Visuals
-
-![CTA](../images/cta/gameplay.png)
